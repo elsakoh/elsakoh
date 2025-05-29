@@ -1,18 +1,6 @@
 ### :wave: Hi, I'm Elsa
 ### TLDR: 
-* I love making a new friend, please drop a message [here](https://twitter.com/goosetheintern) (👯 especially if you want to work together on a project)
-
-
-### 👩🏻‍💻 Dev (and other) things that I am currently interested in: 
-* Re-doing my portfolio website
-* properly re-building [vegeverse contracts](https://github.com/soloplxya/vegeverse-solidity-template) (after properly learning solidity) 
-* making games using SparkAR and making my own assets for them (blender)
-* how can we use blockchain to push for a more sustainable world
-
-
-### 🌱 Currently learning: 
-* (by myself): Solidity + Hardhat
-* (at school): Cryptography + Computer Vision + Software security
+* I love making a new friend, please drop a message (👯 especially if you want to work together on a project)
 
 ### 🦥 Previous projects:
 * [Fall-Net](https://github.com/elsakoh/cs3244-g26): Motivated by old people falling down, Fall Net classifies videos as fall events or non fall events using a CNN. 
